@@ -1,7 +1,7 @@
 #  AutoVerge Manual and Usability Web – QA Reports
 
 ## 📘 Overview
-This repository contains detailed **manual QA** and **usability testing** reports for the **AutoVerge Manual and Usability Web** project.  
+This repository contains detailed **manual QA** and **usability testing** reports for the **AutoVerge Manual and Usability Web(Shopify-based)** project.  
 All reported issues are documented in a consistent format, covering **functional**, **UI/UX**, and **performance** aspects observed during testing.
 
 The goal of this repository is to provide a clear record of bugs, usability gaps, and improvement suggestions — helping the development team ensure a stable and user-friendly release.
